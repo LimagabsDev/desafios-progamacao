@@ -16,6 +16,7 @@
 
 ## Resumo dos Conceitos Praticados
 
+Descreva em 1 ou 2 parágrafos o que você aprendeu:
 
 Na verdade, não tive muitas dificuldades, pois o código era bem simples e tranquilo!
 
