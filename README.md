@@ -11,7 +11,7 @@
 
 | Nº | Desafio | Conteúdo | Status | Evidência |
 |---:|---|---|---|---|
-| 42 | Desafio final para conclusão do exercício | Uso de `<meta charset="UTF-8">`, `<head>` e `<body>` | Aprovado | [Ver Imagem](prints/print1.png) |
+| 42 | Desafio final para conclusão do exercício | Uso de `<meta charset="UTF-8">`, `<head>` e `<body>` e muitas outras! | Aprovado | [Ver Imagem](prints/print1.png) |
 | 42/Conclusão | - | Painel de conclusão | Aprovado | [Ver Imagem](prints/print2.png) |
 
 ## Resumo dos Conceitos Praticados
