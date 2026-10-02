@@ -3,7 +3,7 @@
 - **Estudante:** Gabriel Araujo Lima
 - **Plataforma Utilizada:** freeCodeCamp
 - **Tecnologia Praticada:** Linguagem HTML
-- **Disciplina:** Design Profissional / Turma: Quinta-feira - Análise e Desenvolvimento de Sistemas
+- **Disciplina:** Design Profissional / Turma: Quarta-feira, Sala 107 - Análise e Desenvolvimento de Sistemas
 
 ---
 
